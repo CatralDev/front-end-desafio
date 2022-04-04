@@ -59,7 +59,7 @@ Eles podem te auxiliar no desenvolvimento do teste:
 
 
 ## Pronto, e agora?
-- [ ] Envie o link do sandbox para [victor@catral.coom.br](victor@catral.coom.br) 
+- [ ] Envie o link do sandbox para [victor@catral.com.br](victor@catral.com.br) 
 - [ ] Coloque no assunto do email: "Front-end Developer Catral.io - *seu nome aqui*"
 - [ ] No corpo do email, informe em qual nível de senioridade você se considera
 - [ ] Se possível, deixe alguns de seus contatos como Linkedin e telefones
